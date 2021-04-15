@@ -91,6 +91,11 @@ h5 {
         margin: 0;
     }
 
+    .personal-info{
+        display: flex;
+        flex-direction: column;
+    }
+
     .social-media {
         display: flex;
         flex-direction: column;
